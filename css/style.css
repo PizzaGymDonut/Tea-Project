@@ -6,7 +6,7 @@ body {
   color: seashell;
 }
 
-p h2 h3 h4 {
+p, h2, h3, h4 {
 
 opacity: 0.9;
 }
@@ -93,7 +93,7 @@ main {
   flex-direction: column;
   width: 1000px;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 80px;
 
 }
 
